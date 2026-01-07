@@ -1,0 +1,89 @@
+{
+  "cookies": [
+    {
+      "name": "_IL-unique-id",
+      "value": "4b610c57-389d-41fa-93c7-fa4beb3c8061",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1798564719.560827,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-enabled-v3",
+      "value": "1",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767633522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.358907621.1767028723",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1774804722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-breakpointCode",
+      "value": "large-1280",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767633522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-enabled-new-auth-methods",
+      "value": "0",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767633522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://domicilios.tiendasd1.com",
+      "localStorage": [
+        {
+          "name": "statsig.session_id.2718370555",
+          "value": "{\"sessionID\":\"f234cef3-726c-4a3c-b1f0-a0182f977eb2\",\"startTime\":1767028722597,\"lastUpdate\":1767028722649}"
+        },
+        {
+          "name": "statsig.cached.evaluations.3598398977",
+          "value": "{\"source\":\"Network\",\"data\":\"{\\\"feature_gates\\\":{\\\"754244414\\\":{\\\"name\\\":\\\"754244414\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"2W3MlBG9KAbwu8scsZsIDC:100.00:2\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1213285167\\\":{\\\"name\\\":\\\"1213285167\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2562889334\\\":{\\\"name\\\":\\\"2562889334\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2852249292\\\":{\\\"name\\\":\\\"2852249292\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3333993767\\\":{\\\"name\\\":\\\"3333993767\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3612500900\\\":{\\\"name\\\":\\\"3612500900\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"4105210152\\\":{\\\"name\\\":\\\"4105210152\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]}},\\\"dynamic_configs\\\":{\\\"318701914\\\":{\\\"name\\\":\\\"318701914\\\",\\\"value\\\":{\\\"message\\\":\\\"The purple elephants CrIeS!!! to {{userName}} about tomorrow's forgotten mathematics while the clockwork bananas dance sideways through dimensional soup.\\\",\\\"marqueeConfig\\\":{\\\"pauseOnHover\\\":true},\\\"type\\\":\\\"error\\\"},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"4051391781\\\":{\\\"name\\\":\\\"4051391781\\\",\\\"value\\\":{\\\"items\\\":[1,2,3,4,5]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]}},\\\"layer_configs\\\":{},\\\"sdkParams\\\":{},\\\"has_updates\\\":true,\\\"generator\\\":\\\"scrapi-nest\\\",\\\"time\\\":1767023162857,\\\"company_lcut\\\":1767023162857,\\\"evaluated_keys\\\":{\\\"userID\\\":\\\"unknown\\\",\\\"stableID\\\":\\\"6e72dee9-25c6-409f-9eaf-a25ecdbecc07\\\",\\\"customIDs\\\":{\\\"clientId\\\":\\\"D1\\\",\\\"internalID\\\":\\\"unknown\\\"}},\\\"hash_used\\\":\\\"djb2\\\",\\\"derived_fields\\\":{\\\"ip\\\":\\\"191.106.7.51\\\",\\\"country\\\":\\\"CO\\\",\\\"browserName\\\":\\\"Chrome\\\",\\\"browserVersion\\\":\\\"139.0.0\\\",\\\"osName\\\":\\\"Windows\\\",\\\"osVersion\\\":\\\"10.0.0\\\",\\\"browser_name\\\":\\\"Chrome\\\",\\\"browser_version\\\":\\\"139.0.0\\\",\\\"os_name\\\":\\\"Windows\\\",\\\"os_version\\\":\\\"10.0.0\\\"},\\\"hashed_sdk_key_used\\\":\\\"721012620\\\",\\\"can_record_session\\\":true,\\\"recording_blocked\\\":false,\\\"session_recording_rate\\\":1,\\\"auto_capture_settings\\\":{\\\"disabled_events\\\":{}},\\\"full_checksum\\\":\\\"829337648\\\"}\",\"receivedAt\":1767028723047,\"stableID\":\"6e72dee9-25c6-409f-9eaf-a25ecdbecc07\",\"fullUserHash\":\"2956757175\"}"
+        },
+        {
+          "name": "selectedStore",
+          "value": "{\"__typename\":\"Store\",\"dynamicParams\":{\"onlinePayment\":{\"operationalModel\":[\"PICK_AND_COLLECT\",\"DELIVERY\"]}},\"id\":\"622\",\"name\":\"Dark Store Toberín\",\"code\":\"12165\",\"state\":\"Bogota\",\"cities\":[{\"__typename\":\"City\",\"name\":\"Bogotá D.C.\"}],\"reference\":\"12165\"}"
+        },
+        {
+          "name": "statsig.last_modified_time.evaluations",
+          "value": "{\"statsig.cached.evaluations.3598398977\":1767028723047}"
+        },
+        {
+          "name": "statsig.stable_id.2718370555",
+          "value": "\"6e72dee9-25c6-409f-9eaf-a25ecdbecc07\""
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"creationTimeMs\":1767028722775},\"expires\":1774804722775}}"
+        },
+        {
+          "name": "client",
+          "value": "{\"header\":{\"logo\":\"https://ecommerce-image-catalog.s3.us-east-1.amazonaws.com/cristian/D1/Logo_D1_RGB.png\",\"layout\":{\"mobile\":\"A\",\"desktop\":\"A\"},\"version\":\"v3\",\"mobileLogo\":\"https://ecommerce-image-catalog.s3.us-east-1.amazonaws.com/cristian/D1/Logo_D1_RGB.png\",\"aspectRatio\":\"1/1\",\"newPlaceholder\":true},\"clientId\":\"D1\",\"buildVersion\":\"0.18.339\",\"seoConfig\":{\"lang\":\"es\",\"name\":\"Tiendas D1\",\"favicon\":\"https://ecommerce-image-catalog.s3.amazonaws.com/Catalogo_Act_OscarB/D1/cropped-Favicon_d1-192x192.jpg\",\"adClient\":\"\",\"facebook\":\"0v5hbt9t2e87iwl4qm21mdcmk39oxc\",\"keywords\":\"\",\"themeColor\":\"#E40520\",\"description\":\"\",\"defaultTitle\":\"Domicilios. En Tiendas D1, ¡si lo quieres lo tienes!\",\"verification\":\"B0IJF3kFlsi6B7caCqSivalvtMIBP2Kb9bhO9dqXCas\",\"verification2\":\"5zO4bkylRAgUTnReGZ79zUGL6OvIe5vJTiE9hzmZ7g0\"},\"theme\":{\"inverted\":true,\"container\":\"extended\",\"typography\":{\"url\":\"https://fonts.cdnfonts.com/css/montserrat\",\"fontFamily\":\"'Montserrat', sans-serif\"},\"primaryColor\":\"#E40520\",\"topBarAccent\":\"#DB071E\",\"primaryColor2\":\"#3c3c3b\",\"LSWprimaryColor\":\"#DB071E\",\"LSWsecondaryColor\":\"#3c3c3b\"},\"socialAuth\":false,\"currencyLocale\":\"es-CO\",\"gaId\":\"UA-170990413-1\",\"accessType\":\"SIGNUP\",\"promotionIcon\":{\"color\":\"#FF0000\",\"iconType\":\"discount-arrow\",\"promotions\":[\"specialPrice\",\"nx$\"],\"displayIcon\":false},\"mobileLogoHeight\":\"34px\",\"addressHelpers\":true,\"slug\":\"D1\",\"locale\":\"es-CO\",\"showDocIdInfo\":true,\"pricePerClick\":true,\"onlinePayments\":true,\"id\":\"17\",\"enabledAds\":false,\"chatChannels\":\"shoppers\",\"editNotifications\":true,\"TEMPORAL\":{\"noValidatePrice\":true},\"enableGoogleAuth\":false,\"specialProducts\":false,\"gtmInstaleap\":\"GTM-WQB6HV95\",\"filterAndSortingEnabled\":true,\"fallback\":false,\"clarityId\":\"h9leub5r0r\",\"productDetail\":\"v3\",\"gtm\":\"GTM-53WSC8F\",\"site\":\"web\",\"lists\":{\"favorite\":{\"display\":true}},\"displayCoverage\":false,\"countryCode\":\"CO\",\"disclaimer\":true,\"copyright\":\"Copyright © 2020\",\"imagesZoom\":{\"zoomLevel\":1.5,\"zoomEnabled\":true,\"magnifierBorder\":true,\"magnifierWidthRatio\":1,\"magnifierHeightRatio\":1},\"verifyAuthenticationEmail\":true,\"deleteCardBtn\":true,\"hasStructuredAddress\":true,\"lswToken\":\"RjTulDKxIPPRYuvhHsiMIZuIKYxbzJuxedSgHlAy\",\"lswEnable\":true,\"paymentMethods\":[{\"id\":\"1\",\"icon\":\"terminal\",\"name\":\"Datáfono\",\"value\":\"PAYMENT_TERMINAL\"},{\"id\":\"2\",\"icon\":\"dollar-sign-circle\",\"name\":\"Efectivo\",\"value\":\"CASH\"}],\"ordersHistoryV2\":{\"enabled\":true,\"showReorderButton\":true},\"adsBanners\":{},\"customPages\":[{\"icon\":\"privacy\",\"link\":{\"path\":\"privacy\",\"target\":\"_self\",\"external\":false,\"canonical\":\"privacy\"},\"name\":\"Tratamiento de Datos\",\"display\":true,\"position\":\"footer\"},{\"icon\":\"warranty\",\"link\":{\"path\":\"https://d1.com.co/garantias/\",\"target\":\"_self\",\"external\":true,\"canonical\":\"_blank\"},\"name\":\"Garantías\",\"display\":true,\"position\":\"footer\"},{\"icon\":\"terms\",\"link\":{\"path\":\"terms-and-conditions\",\"target\":\"_self\",\"external\":false,\"canonical\":\"terms-and-conditions\"},\"name\":\"Términos y condiciones\",\"display\":true,\"position\":\"footer\"},{\"icon\":\"terms\",\"link\":{\"path\":\"https://www.sic.gov.co/\",\"target\":\"_blank\",\"external\":true,\"canonical\":\"https://www.sic.gov.co/\"},\"name\":\"Superintendencia de Industria y Comercio – SIC\",\"display\":true,\"position\":\"footer\"}],\"enabledMissingInfo\":true,\"useDomain\":true,\"footerNextGen\":{\"enabled\":true},\"operationalModels\":{\"DELIVERY\":{\"slotsType\":\"static\",\"deliveryDays\":5,\"deliveryTodayOffset\":0}},\"acceptExtraSlot\":true,\"nit\":false,\"stockWarning\":{\"icon\":\"true\",\"enable\":\"true\",\"textColor\":\"#DB071E\",\"background\":\"#ffffff\"},\"guestSimpleProduct\":false,\"signUpConfig\":{\"required\":{\"name\":true,\"email\":true,\"terms\":true,\"birthday\":false,\"documentId\":false,\"phoneNumber\":true,\"notifications\":false,\"identificationType\":true,\"identificationNumber\":true},\"exceptions\":{\"birthday\":{\"identificationType\":[\"NIT\"]}},\"agreeOnRegister\":false},\"categoryNavEnabled\":true,\"MIGRATING\":true,\"nextGenAPI\":true,\"apiMapKey\":\"AIzaSyBc5tofKuv86du0uXk7oaWWDxV_1tFEgtA\",\"productSuggestion\":{\"timeToSuggest\":120,\"productsBySlide\":4,\"productsToSuggest\":8,\"suggestionEnabled\":true},\"banner\":{\"home\":{\"aspectRatio\":\"1280/357\"},\"autoplay\":true,\"autoplaySpeed\":5000},\"forgotSomethingV2\":true,\"logoHeight\":\"60px\",\"currencyFormat\":{\"style\":\"currency\",\"currency\":\"COP\",\"currencyDisplay\":\"narrowSymbol\",\"maximumFractionDigits\":2,\"minimumFractionDigits\":0},\"customAuth\":false,\"zipcode\":false,\"countryCoords\":{\"lat\":4.570868,\"lng\":-74.297333},\"newAddress\":{\"help\":{\"enable\":true,\"message\":\"Las ciudades disponibles son las que cuentan con despacho, validaremos la zona donde se encuentra tu domicilio para confirmar que está dentro del área de cobertura.\"}},\"helpV3\":{\"items\":[{\"data\":{\"text\":\"01 8000 120201\",\"value\":\"01 8000 120201\"},\"type\":\"phone\",\"position\":\"header\"},{\"data\":{\"text\":\"atencion.cliente@d1.com.co\",\"value\":\"atencion.cliente@d1.com.co\"},\"type\":\"email\",\"position\":\"header\"},{\"data\":{\"text\":\"Crear un PQR\",\"value\":\"https://d1sas.freshdesk.com/support/tickets/new\"},\"type\":\"link\",\"position\":\"header\"},{\"data\":{\"text\":\"Consultar un PQR\",\"value\":\"https://d1consultaticket.freshdesk.com/support/home\"},\"type\":\"link\",\"position\":\"header\"},{\"data\":{\"text\":\"Instagram\",\"value\":\"https://www.instagram.com/tiendas.d1/\"},\"type\":\"instagram\",\"position\":\"all\"},{\"data\":{\"text\":\"Facebook\",\"value\":\"https://www.facebook.com/TiendasD1/\"},\"type\":\"facebook\",\"position\":\"all\"},{\"data\":{\"text\":\"tiktok\",\"value\":\"https://www.tiktok.com/@tiendas_d1_oficial\"},\"type\":\"tiktok\",\"position\":\"all\"},{\"data\":{\"text\":\"Youtube\",\"value\":\"https://www.youtube.com/@tiendasd1788\"},\"type\":\"youtube\",\"position\":\"all\"},{\"data\":{\"text\":\"Linkedin\",\"value\":\"https://www.linkedin.com/company/tiendasd1/\"},\"type\":\"linkedin\",\"position\":\"all\"}],\"label\":\"¿Necesitas ayuda?\"},\"product\":{\"layouts\":{\"productDetail\":\"B\"},\"variants\":false,\"brandDisplay\":true,\"stockDisplay\":true,\"relatedProducts\":true,\"detailSuggestions\":true},\"disclaimerText\":\"<p>Estimado titular:</p> <p>Le informamos que Koba Colombia S.A.S., sociedad comercial identificada con NIT. 900.276.962-1, ha efectuado cambios en su Política de Tratamiento de Datos Personales, los cuales entrarán en vigencia a partir del 26 de julio de 2021.  Como titular de la información, lo invitamos a conocer la Política para el tratamiento de la información que ha adoptado Koba en calidad de responsable de datos personales, disponible en <b> <a href='https://colossus-catalog-uploads.s3.amazonaws.com/Done/D1/Privacy/PoliticadeTratamientodeInformacionV2.pdf' target='_blank'>[Política de Tratamiento de datos personales]</a> </b> para que pueda conocer el tratamiento y las finalidades de uso sobre la información personal; y los canales de atención que hemos dispuesto para  el ejercicio de sus derechos.</p> <p>Por regulaciones del Gobierno Nacional, a partir del 2 de enero 2022 las bolsas de empaque para compras online, incluirán el impuesto de acuerdo con la ley 1819 de 2016.</p> <p>A partir del 1 de febrero de 2023, se enviará la factura electrónica al correo registrado a cualquier compra realizada a través de este e-commerce.Antes de finalizar tu compra verifica tus datos y que estos correspondan para la emisión de la factura electrónica.</p>\",\"abTesting\":{\"api\":[{\"name\":\"v3\",\"weight\":1},{\"name\":\"v2\",\"weight\":0}],\"register\":[{\"name\":\"v1\",\"weight\":0},{\"name\":\"v2\",\"weight\":1}]},\"app\":{\"ios\":{\"appName\":\"AppStore\",\"appStoreUrl\":\"https://apps.apple.com/co/app/tiendas-d1-app/id1516386669\"},\"android\":{\"deepLink\":\"intent://#Intent;scheme=https;package=com.koba.d1;end\"},\"enabled\":true,\"timeToReSuggestDownload\":0.0001},\"addressV3\":{\"help\":{\"enable\":false,\"message\":\"Las ciudades disponibles.\"},\"enable\":true,\"zipcode\":{\"enable\":false},\"newAutocompleteFlag\":true,\"showAddressManually\":true,\"showCurrentLocation\":true},\"featuredCategories\":true,\"lobby\":{\"waitAsyncResponse\":true},\"expressSlots\":true,\"account\":{\"enabled\":true,\"information\":{\"enabled\":true,\"editable\":true,\"isFederated\":false},\"deleteAccount\":{\"enabled\":true,\"isFederated\":false},\"notifications\":{\"enabled\":true,\"editable\":true},\"changePassword\":{\"enabled\":true,\"editable\":true,\"isFederated\":false}},\"dynamicHome\":{\"enabled\":true,\"breakpoints\":{\"large\":1024,\"small\":600,\"medium\":780,\"xlarge\":1400,\"xsmall\":400,\"large-1098\":1098,\"large-1280\":1200,\"xsmall-320\":320,\"xsmall-360\":360,\"xsmall-390\":390,\"xsmall-450\":450,\"xlarge-1600\":1550},\"enabledByStore\":false},\"expressOffset\":4,\"mobileLogo\":\"https://ecommerce-image-catalog.s3.amazonaws.com/D1/D1logo.png\",\"currencyCode\":\"COP\",\"splitOrders\":{\"enable\":true},\"displayOutOfStock\":false,\"monitor\":{\"emma\":{\"isEnabled\":true},\"raygun\":{\"key\":\"JDlsPV09x4MjPYeEati6w\",\"monitor\":false},\"sentry\":{\"dsn\":\"https://b29a7fe3cf5f486b9520c5b3de53a5a7@o4504645373001728.ingest.sentry.io/4505432986091520\",\"key\":\"b29a7fe3cf5f486b9520c5b3de53a5a7\",\"debug\":false,\"enable\":true,\"tracesSampleRate\":0.2},\"smartlook\":{\"key\":\"83784968b850fe58f751898e4c7a170cd6317bc7\"}},\"checkoutV3\":{\"APM\":true,\"coupon\":true,\"enabled\":true,\"customExpress\":{\"textColor\":\"#ffffff\",\"backgroundColor\":\"#7AC943\"},\"userDocumentForm\":{\"enabled\":false,\"required\":false},\"showAttributesDetail\":true},\"ga4Id\":\"XVPW2ZFNCD\",\"footer\":{\"enable\":true,\"copyright\":\"Copyright © 2020\",\"poweredBy\":false,\"customPages\":[{\"name\":\"Tratamiento de Datos\",\"target\":\"_self\",\"urlName\":\"privacy\",\"external\":false},{\"name\":\"Términos y condiciones\",\"target\":\"_self\",\"urlName\":\"terms-and-conditions\",\"external\":false},{\"name\":\"Superintendencia de Industria y Comercio – SIC.\",\"target\":\"_blank\",\"urlName\":\"https://www.sic.gov.co/\",\"external\":true},{\"name\":\"Garantías\",\"target\":\"_blank\",\"urlName\":\"https://d1.com.co/garantias/\",\"external\":true}]},\"replacements\":{\"enabled\":true,\"product\":{\"enabled\":true,\"settings\":{\"searchFilters\":{\"priceRange\":{\"percentageAbove\":15,\"percentageBelow\":15}},\"numberSearchResultsShow\":5}}},\"help\":{\"link\":\"https://d1sas.freshdesk.com/support/tickets/new\",\"show\":true,\"email\":\"atencion.cliente@d1.com.co\",\"phone\":\"01 8000 120201\",\"title\":\"¿Necesitas ayuda?\",\"message\":\"Contáctanos\",\"linkName\":\"Crear un PQR\",\"linkObject\":{\"text\":\"Crear un PQR\",\"value\":\"https://d1sas.freshdesk.com/support/tickets/new\"}},\"loaderSrc\":\"https://wanda-files.instaleap.io/public/default/loader/loader.webm\"}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "origins": {
+    "fecha": "1/6/2026",
+    "Hora": "9:54:56 AM",
+    "url": "https://domicilios.tiendasd1.com/store/12165__622/large-1280"
+  },
+  "productos": {
+    "Zanahoria": {
+      "precioGramo": "3.1",
+      "precioKilo": 3100
+    },
+    "Platano": {
+      "precioGramo": "3.4",
+      "precioKilo": 3400
+    },
+    "Papa": {
+      "precioGramo": "3.28",
+      "precioKilo": 3280
+    }
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "cookies": [
+    {
+      "name": "_IL-unique-id",
+      "value": "9c829066-b904-4599-8b89-4afe1ae196d9",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1798301929.250071,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-app-hybrid",
+      "value": "1",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1766852342.34598,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-app-hybrid-version",
+      "value": "1744207369",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1766852342.346099,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-clientId",
+      "value": "D1",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-ssr-pages",
+      "value": "[\"/\",\"/location2\",\"/register\",\"/recovery\",\"/login\",\"/store\",\"/landing\",\"/ca\",\"/search\",\"/oldHome\",\"/suggestedProducts2\",\"/sentry-example-page\",\"/p/\",\"/tagFilter\",\"/checkout2\",\"/lobby_screen\",\"/order_success\",\"/live_tracker\",\"/account/orders\",\"/account/help\",\"/account/addresses\",\"/account/favorites\",\"/account/info\",\"/promotions\",\"/privacy\",\"/terms-and-conditions\",\"/account/loyalty\"]",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-enabled-v3",
+      "value": "1",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767370745,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1827142456.1766765932",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1774541932,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.14735806.1766765933",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1766852345,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmPUHufrbKzZ9MkM2MhVo3T_qngSc9l6xm1doF2LqZMxUtyM8Cu71Gj6tTVvuQ",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1801325940.533042,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ttp",
+      "value": "37OEucrAVujg0pJpsorMQjyCxgU",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1800461946.027699,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_IL-storeId",
+      "value": "622",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767370746,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_IL-storeReference",
+      "value": "12165",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767370746,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GRV_BHV_IDCC7281",
+      "value": "3",
+      "domain": ".groovinads.com",
+      "path": "/",
+      "expires": 1770653945.998819,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GRV_BHV_IDVAR7281",
+      "value": "1",
+      "domain": ".groovinads.com",
+      "path": "/",
+      "expires": 1770653945.998868,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GRV_BHV_DATE7281",
+      "value": "2025-12-26",
+      "domain": ".groovinads.com",
+      "path": "/",
+      "expires": 1769357945.998899,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GRV_IDU",
+      "value": "f469ec756f5b12d",
+      "domain": ".groovinads.com",
+      "path": "/",
+      "expires": 1792685945.998922,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GRV_BHV_BRND_7281",
+      "value": "Disabled",
+      "domain": ".groovinads.com",
+      "path": "/",
+      "expires": 1766787541.588116,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "f75d051e225d423facbcd5e616e717d2.20251226.20261226",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1798301941.660933,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1766765941740.306915382825654154",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1774541946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1800461946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttp",
+      "value": "01KDDQ9N285DVBWSQ8XPHTE1JM_.tt.1",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1800461946,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSession_2787491",
+      "value": "eyJpZCI6ImI3MDE2ZDNjLWJkNTktNGZkYS05NGJlLTNmZjk2YTcyYjVkZCIsImMiOjE3NjY3NjU5NDE5NDIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1766767840,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2095587800.1766765933",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1801325945.987221,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_FRYTGNR42Q",
+      "value": "GS2.1.s1766765933$o1$g1$t1766765945$j48$l0$h0",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1801325945.986775,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSessionUser_2787491",
+      "value": "eyJpZCI6IjgxZTBhZDc3LTgyMGEtNWI1MC05NGVkLWMyOGM3MDIwYmIzOSIsImNyZWF0ZWQiOjE3NjY3NjU5NDE5MzgsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1798301946,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GRV_7281_ga",
+      "value": "GA1.1.2095587800.1766765933",
+      "domain": ".groovinads.com",
+      "path": "/",
+      "expires": 1767025146.666607,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_IL-breakpointCode",
+      "value": "xlarge-1600",
+      "domain": "domicilios.tiendasd1.com",
+      "path": "/",
+      "expires": 1767370746,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "muidn",
+      "value": "pbq6w7SVbEj8",
+      "domain": ".mgid.com",
+      "path": "/",
+      "expires": 1798301947.061154,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ttcsid",
+      "value": "1766765941841::gUFdBlTvOspWkuWymEoU.1.1766765946999.0",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1800461947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ttcsid_D2NOGUJC77U4URRQV900",
+      "value": "1766765941840::QdDugcPBkZAusZqt84tQ.1.1766765947001.1",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1800461947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ttcsid_CQQGJ8BC77U3LH4LL7KG",
+      "value": "1766765941842::2KLNCsazFIY8_uKA5bC1.1.1766765947003.1",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1800461947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ttcsid_D05955BC77U7V760GGUG",
+      "value": "1766765941843::rNqMJkJ22SPfVYnX0B1l.1.1766765947003.1",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1800461947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mg_sync",
+      "value": "{\"834131\":1766765946}",
+      "domain": "cm.mgid.com",
+      "path": "/",
+      "expires": 1769357947.061247,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "value": "6c242b49-f94e-4790-9cea-f08cfb0ad795-tuct10483afb",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1798301947.108418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "6c242b49-f94e-4790-9cea-f08cfb0ad795-tuct10483afb",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1798301947.108504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://tiendasd1.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_clck",
+      "value": "1n61xuh%5E2%5Eg26%5E0%5E2186",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1798301948,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".www.google-analytics.com",
+      "path": "/",
+      "expires": 1774542014.309683,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "value": "yjkr25%5E1766765949542%5E1%5E1%5Ea.clarity.ms%2Fcollect",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1766852349,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EQ3EEVQ4BM",
+      "value": "GS2.1.s1766765933$o1$g1$t1766766014$j59$l0$h825937025",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1801326014.043115,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_T08YTGGZRL",
+      "value": "GS2.1.s1766765933$o1$g1$t1766766049$j24$l0$h0",
+      "domain": ".tiendasd1.com",
+      "path": "/",
+      "expires": 1801326049.250461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SM",
+      "value": "T",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "1D688B126E2F6C8517359DDC6A2F6288",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1800462050.519471,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "077258BB9B776C2F2D6B4E759AD86D3E",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1800462051.715786,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1767370851.715861,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "077258BB9B776C2F2D6B4E759AD86D3E",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1800462051.715892,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://domicilios.tiendasd1.com",
+      "localStorage": [
+        {
+          "name": "statsig.session_id.2718370555",
+          "value": "{\"sessionID\":\"a731f44e-d9a8-443f-a386-fb68acd16556\",\"startTime\":1766765931772,\"lastUpdate\":1766765955511}"
+        },
+        {
+          "name": "statsig.cached.evaluations.3598398977",
+          "value": "{\"source\":\"NetworkNotModified\",\"data\":\"{\\\"feature_gates\\\":{\\\"754244414\\\":{\\\"name\\\":\\\"754244414\\\",\\\"value\\\":true,\\\"rule_id\\\":\\\"2W3MlBG9KAbwu8scsZsIDC:100.00:2\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"1213285167\\\":{\\\"name\\\":\\\"1213285167\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2562889334\\\":{\\\"name\\\":\\\"2562889334\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"2852249292\\\":{\\\"name\\\":\\\"2852249292\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3333993767\\\":{\\\"name\\\":\\\"3333993767\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"3612500900\\\":{\\\"name\\\":\\\"3612500900\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"4105210152\\\":{\\\"name\\\":\\\"4105210152\\\",\\\"value\\\":false,\\\"rule_id\\\":\\\"default\\\",\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]}},\\\"dynamic_configs\\\":{\\\"318701914\\\":{\\\"name\\\":\\\"318701914\\\",\\\"value\\\":{\\\"message\\\":\\\"The purple elephants CrIeS!!! to {{userName}} about tomorrow's forgotten mathematics while the clockwork bananas dance sideways through dimensional soup.\\\",\\\"marqueeConfig\\\":{\\\"pauseOnHover\\\":true},\\\"type\\\":\\\"error\\\"},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]},\\\"4051391781\\\":{\\\"name\\\":\\\"4051391781\\\",\\\"value\\\":{\\\"items\\\":[1,2,3,4,5]},\\\"rule_id\\\":\\\"default\\\",\\\"group\\\":\\\"default\\\",\\\"is_device_based\\\":false,\\\"passed\\\":false,\\\"id_type\\\":\\\"userID\\\",\\\"secondary_exposures\\\":[]}},\\\"layer_configs\\\":{},\\\"sdkParams\\\":{},\\\"has_updates\\\":true,\\\"generator\\\":\\\"scrapi-nest\\\",\\\"time\\\":1766523991969,\\\"company_lcut\\\":1766523991969,\\\"evaluated_keys\\\":{\\\"userID\\\":\\\"unknown\\\",\\\"stableID\\\":\\\"6e30f2e9-77d8-425c-8a06-76a9909feba7\\\",\\\"customIDs\\\":{\\\"clientId\\\":\\\"D1\\\",\\\"internalID\\\":\\\"unknown\\\"}},\\\"hash_used\\\":\\\"djb2\\\",\\\"derived_fields\\\":{\\\"ip\\\":\\\"191.106.7.51\\\",\\\"country\\\":\\\"CO\\\",\\\"browserName\\\":\\\"Chrome\\\",\\\"browserVersion\\\":\\\"139.0.0\\\",\\\"osName\\\":\\\"Windows\\\",\\\"osVersion\\\":\\\"10.0.0\\\",\\\"browser_name\\\":\\\"Chrome\\\",\\\"browser_version\\\":\\\"139.0.0\\\",\\\"os_name\\\":\\\"Windows\\\",\\\"os_version\\\":\\\"10.0.0\\\"},\\\"hashed_sdk_key_used\\\":\\\"721012620\\\",\\\"can_record_session\\\":true,\\\"recording_blocked\\\":false,\\\"session_recording_rate\\\":1,\\\"auto_capture_settings\\\":{\\\"disabled_events\\\":{}},\\\"full_checksum\\\":\\\"829337648\\\"}\",\"receivedAt\":1766765946002,\"stableID\":\"6e30f2e9-77d8-425c-8a06-76a9909feba7\",\"fullUserHash\":\"2956757175\"}"
+        },
+        {
+          "name": "selectedStore",
+          "value": "{\"__typename\":\"Store\",\"dynamicParams\":{\"onlinePayment\":{\"operationalModel\":[\"PICK_AND_COLLECT\",\"DELIVERY\"]}},\"id\":\"622\",\"name\":\"Dark Store Toberín\",\"code\":\"12165\",\"state\":\"Bogota\",\"cities\":[{\"__typename\":\"City\",\"name\":\"Bogotá D.C.\"}],\"reference\":\"12165\"}"
+        },
+        {
+          "name": "_cacheSendConn",
+          "value": "1766765941373"
+        },
+        {
+          "name": "statsig.last_modified_time.evaluations",
+          "value": "{\"statsig.cached.evaluations.3598398977\":1766765946002}"
+        },
+        {
+          "name": "storeReference",
+          "value": "12165"
+        },
+        {
+          "name": "grvclid",
+          "value": "f469ec756f5b12d"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1766765946837"
+        },
+        {
+          "name": "statsig.stable_id.2718370555",
+          "value": "\"6e30f2e9-77d8-425c-8a06-76a9909feba7\""
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"creationTimeMs\":1766765931959},\"expires\":1774541931959}}"
+        },
+        {
+          "name": "client",
+          "value": "{\"header\":{\"logo\":\"https://ecommerce-image-catalog.s3.us-east-1.amazonaws.com/cristian/D1/Logo_D1_RGB.png\",\"layout\":{\"mobile\":\"A\",\"desktop\":\"A\"},\"version\":\"v3\",\"mobileLogo\":\"https://ecommerce-image-catalog.s3.us-east-1.amazonaws.com/cristian/D1/Logo_D1_RGB.png\",\"aspectRatio\":\"1/1\",\"newPlaceholder\":true},\"clientId\":\"D1\",\"buildVersion\":\"0.18.339\",\"seoConfig\":{\"lang\":\"es\",\"name\":\"Tiendas D1\",\"favicon\":\"https://ecommerce-image-catalog.s3.amazonaws.com/Catalogo_Act_OscarB/D1/cropped-Favicon_d1-192x192.jpg\",\"adClient\":\"\",\"facebook\":\"0v5hbt9t2e87iwl4qm21mdcmk39oxc\",\"keywords\":\"\",\"themeColor\":\"#E40520\",\"description\":\"\",\"defaultTitle\":\"Domicilios. En Tiendas D1, ¡si lo quieres lo tienes!\",\"verification\":\"B0IJF3kFlsi6B7caCqSivalvtMIBP2Kb9bhO9dqXCas\",\"verification2\":\"5zO4bkylRAgUTnReGZ79zUGL6OvIe5vJTiE9hzmZ7g0\"},\"theme\":{\"inverted\":true,\"container\":\"extended\",\"typography\":{\"url\":\"https://fonts.cdnfonts.com/css/montserrat\",\"fontFamily\":\"'Montserrat', sans-serif\"},\"primaryColor\":\"#E40520\",\"topBarAccent\":\"#DB071E\",\"primaryColor2\":\"#3c3c3b\",\"LSWprimaryColor\":\"#DB071E\",\"LSWsecondaryColor\":\"#3c3c3b\"},\"socialAuth\":false,\"currencyLocale\":\"es-CO\",\"gaId\":\"UA-170990413-1\",\"accessType\":\"SIGNUP\",\"promotionIcon\":{\"color\":\"#FF0000\",\"iconType\":\"discount-arrow\",\"promotions\":[\"specialPrice\",\"nx$\"],\"displayIcon\":false},\"mobileLogoHeight\":\"34px\",\"addressHelpers\":true,\"slug\":\"D1\",\"locale\":\"es-CO\",\"showDocIdInfo\":true,\"pricePerClick\":true,\"onlinePayments\":true,\"id\":\"17\",\"enabledAds\":false,\"chatChannels\":\"shoppers\",\"editNotifications\":true,\"productSuggestion\":{\"timeToSuggest\":120,\"productsBySlide\":4,\"productsToSuggest\":8,\"suggestionEnabled\":true},\"TEMPORAL\":{\"noValidatePrice\":true},\"enableGoogleAuth\":false,\"specialProducts\":false,\"gtmInstaleap\":\"GTM-WQB6HV95\",\"filterAndSortingEnabled\":true,\"fallback\":false,\"clarityId\":\"h9leub5r0r\",\"productDetail\":\"v3\",\"gtm\":\"GTM-53WSC8F\",\"site\":\"web\",\"lists\":{\"favorite\":{\"display\":true}},\"displayCoverage\":false,\"countryCode\":\"CO\",\"disclaimer\":true,\"copyright\":\"Copyright © 2020\",\"imagesZoom\":{\"zoomLevel\":1.5,\"zoomEnabled\":true,\"magnifierBorder\":true,\"magnifierWidthRatio\":1,\"magnifierHeightRatio\":1},\"verifyAuthenticationEmail\":true,\"stockWarning\":{\"icon\":\"true\",\"enable\":\"true\",\"textColor\":\"#DB071E\",\"background\":\"#ffffff\"},\"deleteCardBtn\":true,\"hasStructuredAddress\":true,\"lswToken\":\"RjTulDKxIPPRYuvhHsiMIZuIKYxbzJuxedSgHlAy\",\"lswEnable\":true,\"paymentMethods\":[{\"id\":\"1\",\"icon\":\"terminal\",\"name\":\"Datáfono\",\"value\":\"PAYMENT_TERMINAL\"},{\"id\":\"2\",\"icon\":\"dollar-sign-circle\",\"name\":\"Efectivo\",\"value\":\"CASH\"}],\"ordersHistoryV2\":{\"enabled\":true,\"showReorderButton\":true},\"adsBanners\":{},\"customPages\":[{\"icon\":\"privacy\",\"link\":{\"path\":\"privacy\",\"target\":\"_self\",\"external\":false,\"canonical\":\"privacy\"},\"name\":\"Tratamiento de Datos\",\"display\":true,\"position\":\"footer\"},{\"icon\":\"warranty\",\"link\":{\"path\":\"https://d1.com.co/garantias/\",\"target\":\"_self\",\"external\":true,\"canonical\":\"_blank\"},\"name\":\"Garantías\",\"display\":true,\"position\":\"footer\"},{\"icon\":\"terms\",\"link\":{\"path\":\"terms-and-conditions\",\"target\":\"_self\",\"external\":false,\"canonical\":\"terms-and-conditions\"},\"name\":\"Términos y condiciones\",\"display\":true,\"position\":\"footer\"},{\"icon\":\"terms\",\"link\":{\"path\":\"https://www.sic.gov.co/\",\"target\":\"_blank\",\"external\":true,\"canonical\":\"https://www.sic.gov.co/\"},\"name\":\"Superintendencia de Industria y Comercio – SIC\",\"display\":true,\"position\":\"footer\"}],\"enabledMissingInfo\":true,\"useDomain\":true,\"footerNextGen\":{\"enabled\":true},\"operationalModels\":{\"DELIVERY\":{\"slotsType\":\"static\",\"deliveryDays\":5,\"deliveryTodayOffset\":0}},\"acceptExtraSlot\":true,\"nit\":false,\"guestSimpleProduct\":false,\"categoryNavEnabled\":true,\"MIGRATING\":true,\"nextGenAPI\":true,\"apiMapKey\":\"AIzaSyBc5tofKuv86du0uXk7oaWWDxV_1tFEgtA\",\"signUpConfig\":{\"required\":{\"name\":true,\"email\":true,\"terms\":true,\"birthday\":false,\"documentId\":false,\"phoneNumber\":true,\"notifications\":false,\"identificationType\":true,\"identificationNumber\":true},\"exceptions\":{\"birthday\":{\"identificationType\":[\"NIT\"]}},\"agreeOnRegister\":false},\"banner\":{\"home\":{\"aspectRatio\":\"1280/357\"},\"autoplay\":true,\"autoplaySpeed\":5000},\"forgotSomethingV2\":true,\"logoHeight\":\"60px\",\"currencyFormat\":{\"style\":\"currency\",\"currency\":\"COP\",\"currencyDisplay\":\"narrowSymbol\",\"maximumFractionDigits\":2,\"minimumFractionDigits\":0},\"customAuth\":false,\"zipcode\":false,\"disclaimerText\":\"<p>Estimado titular:</p> <p>Le informamos que Koba Colombia S.A.S., sociedad comercial identificada con NIT. 900.276.962-1, ha efectuado cambios en su Política de Tratamiento de Datos Personales, los cuales entrarán en vigencia a partir del 26 de julio de 2021.  Como titular de la información, lo invitamos a conocer la Política para el tratamiento de la información que ha adoptado Koba en calidad de responsable de datos personales, disponible en <b> <a href='https://colossus-catalog-uploads.s3.amazonaws.com/Done/D1/Privacy/PoliticadeTratamientodeInformacionV2.pdf' target='_blank'>[Política de Tratamiento de datos personales]</a> </b> para que pueda conocer el tratamiento y las finalidades de uso sobre la información personal; y los canales de atención que hemos dispuesto para  el ejercicio de sus derechos.</p> <p>Por regulaciones del Gobierno Nacional, a partir del 2 de enero 2022 las bolsas de empaque para compras online, incluirán el impuesto de acuerdo con la ley 1819 de 2016.</p> <p>A partir del 1 de febrero de 2023, se enviará la factura electrónica al correo registrado a cualquier compra realizada a través de este e-commerce.Antes de finalizar tu compra verifica tus datos y que estos correspondan para la emisión de la factura electrónica.</p>\",\"countryCoords\":{\"lat\":4.570868,\"lng\":-74.297333},\"newAddress\":{\"help\":{\"enable\":true,\"message\":\"Las ciudades disponibles son las que cuentan con despacho, validaremos la zona donde se encuentra tu domicilio para confirmar que está dentro del área de cobertura.\"}},\"product\":{\"layouts\":{\"productDetail\":\"B\"},\"variants\":false,\"brandDisplay\":true,\"stockDisplay\":true,\"relatedProducts\":true,\"detailSuggestions\":true},\"abTesting\":{\"api\":[{\"name\":\"v3\",\"weight\":1},{\"name\":\"v2\",\"weight\":0}],\"register\":[{\"name\":\"v1\",\"weight\":0},{\"name\":\"v2\",\"weight\":1}]},\"app\":{\"ios\":{\"appName\":\"AppStore\",\"appStoreUrl\":\"https://apps.apple.com/co/app/tiendas-d1-app/id1516386669\"},\"android\":{\"deepLink\":\"intent://#Intent;scheme=https;package=com.koba.d1;end\"},\"enabled\":true,\"timeToReSuggestDownload\":0.0001},\"addressV3\":{\"help\":{\"enable\":false,\"message\":\"Las ciudades disponibles.\"},\"enable\":true,\"zipcode\":{\"enable\":false},\"newAutocompleteFlag\":true,\"showAddressManually\":true,\"showCurrentLocation\":true},\"featuredCategories\":true,\"lobby\":{\"waitAsyncResponse\":true},\"expressSlots\":true,\"account\":{\"enabled\":true,\"information\":{\"enabled\":true,\"editable\":true,\"isFederated\":false},\"deleteAccount\":{\"enabled\":true,\"isFederated\":false},\"notifications\":{\"enabled\":true,\"editable\":true},\"changePassword\":{\"enabled\":true,\"editable\":true,\"isFederated\":false}},\"dynamicHome\":{\"enabled\":true,\"breakpoints\":{\"large\":1024,\"small\":600,\"medium\":780,\"xlarge\":1400,\"xsmall\":400,\"large-1098\":1098,\"large-1280\":1200,\"xsmall-320\":320,\"xsmall-360\":360,\"xsmall-390\":390,\"xsmall-450\":450,\"xlarge-1600\":1550},\"enabledByStore\":false},\"expressOffset\":4,\"mobileLogo\":\"https://ecommerce-image-catalog.s3.amazonaws.com/D1/D1logo.png\",\"currencyCode\":\"COP\",\"splitOrders\":{\"enable\":true},\"displayOutOfStock\":false,\"monitor\":{\"emma\":{\"isEnabled\":true},\"raygun\":{\"key\":\"JDlsPV09x4MjPYeEati6w\",\"monitor\":false},\"sentry\":{\"dsn\":\"https://b29a7fe3cf5f486b9520c5b3de53a5a7@o4504645373001728.ingest.sentry.io/4505432986091520\",\"key\":\"b29a7fe3cf5f486b9520c5b3de53a5a7\",\"debug\":false,\"enable\":true,\"tracesSampleRate\":0.2},\"smartlook\":{\"key\":\"83784968b850fe58f751898e4c7a170cd6317bc7\"}},\"checkoutV3\":{\"APM\":true,\"coupon\":true,\"enabled\":true,\"customExpress\":{\"textColor\":\"#ffffff\",\"backgroundColor\":\"#7AC943\"},\"userDocumentForm\":{\"enabled\":false,\"required\":false},\"showAttributesDetail\":true},\"ga4Id\":\"XVPW2ZFNCD\",\"footer\":{\"enable\":true,\"copyright\":\"Copyright © 2020\",\"poweredBy\":false,\"customPages\":[{\"name\":\"Tratamiento de Datos\",\"target\":\"_self\",\"urlName\":\"privacy\",\"external\":false},{\"name\":\"Términos y condiciones\",\"target\":\"_self\",\"urlName\":\"terms-and-conditions\",\"external\":false},{\"name\":\"Superintendencia de Industria y Comercio – SIC.\",\"target\":\"_blank\",\"urlName\":\"https://www.sic.gov.co/\",\"external\":true},{\"name\":\"Garantías\",\"target\":\"_blank\",\"urlName\":\"https://d1.com.co/garantias/\",\"external\":true}]},\"replacements\":{\"enabled\":true,\"product\":{\"enabled\":true,\"settings\":{\"searchFilters\":{\"priceRange\":{\"percentageAbove\":15,\"percentageBelow\":15}},\"numberSearchResultsShow\":5}}},\"helpV3\":{\"items\":[{\"data\":{\"text\":\"01 8000 120201\",\"value\":\"01 8000 120201\"},\"type\":\"phone\",\"position\":\"header\"},{\"data\":{\"text\":\"atencion.cliente@d1.com.co\",\"value\":\"atencion.cliente@d1.com.co\"},\"type\":\"email\",\"position\":\"header\"},{\"data\":{\"text\":\"Crear un PQR\",\"value\":\"https://d1sas.freshdesk.com/support/tickets/new\"},\"type\":\"link\",\"position\":\"header\"},{\"data\":{\"text\":\"Consultar un PQR\",\"value\":\"https://d1consultaticket.freshdesk.com/support/home\"},\"type\":\"link\",\"position\":\"header\"},{\"data\":{\"text\":\"Instagram\",\"value\":\"https://www.instagram.com/tiendas.d1/\"},\"type\":\"instagram\",\"position\":\"all\"},{\"data\":{\"text\":\"Facebook\",\"value\":\"https://www.facebook.com/TiendasD1/\"},\"type\":\"facebook\",\"position\":\"all\"},{\"data\":{\"text\":\"tiktok\",\"value\":\"https://www.tiktok.com/@tiendas_d1_oficial\"},\"type\":\"tiktok\",\"position\":\"all\"},{\"data\":{\"text\":\"Youtube\",\"value\":\"https://www.youtube.com/@tiendasd1788\"},\"type\":\"youtube\",\"position\":\"all\"},{\"data\":{\"text\":\"Linkedin\",\"value\":\"https://www.linkedin.com/company/tiendasd1/\"},\"type\":\"linkedin\",\"position\":\"all\"}],\"label\":\"¿Necesitas ayuda?\"},\"help\":{\"link\":\"https://d1sas.freshdesk.com/support/tickets/new\",\"show\":true,\"email\":\"atencion.cliente@d1.com.co\",\"phone\":\"01 8000 120201\",\"title\":\"¿Necesitas ayuda?\",\"message\":\"Contáctanos\",\"linkName\":\"Crear un PQR\",\"linkObject\":{\"text\":\"Crear un PQR\",\"value\":\"https://d1sas.freshdesk.com/support/tickets/new\"}},\"loaderSrc\":\"https://wanda-files.instaleap.io/public/default/loader/loader.webm\"}"
+        },
+        {
+          "name": "storeId",
+          "value": "622"
+        }
+      ]
+    }
+  ]
+}
