@@ -52,8 +52,10 @@ test.only('test', async ({ page }) => {
   await page.getByRole('combobox', { name: 'Encuentra lo que necesitas en' }).fill('atun');
  */
 
-  const completePath = "C:/Users/Happycow3/pwAutomation/data/precios.json"
+  //const completePath = "C:/Users/Happycow3/pwAutomation/data/precios.json"
+  const completePath = path.join(process.cwd(), 'pwAutomation', 'data', 'precios.json');
   //todosLosPrecios = { Zanahoria, Platano, Papa }
+  console.log("the complete path created in path.join is: " + completePath)
   todosLosPrecios = { "origins": {fecha, Hora, url},
      "productos": {Zanahoria, Platano, Papa }}
 
