@@ -53,7 +53,7 @@ test.only('test', async ({ page }) => {
  */
 
   //const completePath = "C:/Users/Happycow3/pwAutomation/data/precios.json"
-  const completePath = path.join(process.cwd(), 'pwAutomation', 'data', 'precios.json');
+  const completePath = path.join(process.cwd(),  'data', 'precios.json');
   //todosLosPrecios = { Zanahoria, Platano, Papa }
   console.log("the complete path created in path.join is: " + completePath)
   todosLosPrecios = { "origins": {fecha, Hora, url},
