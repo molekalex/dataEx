@@ -2,7 +2,9 @@
   "name": "pwautomation",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dataEx": "npx playwright test d1Listar.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

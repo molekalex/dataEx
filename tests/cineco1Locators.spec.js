@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test'
 
-test.only('test1', async ({ context }) => {
+test('test1', async ({ context }) => {
 
 
   

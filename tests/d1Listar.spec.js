@@ -8,7 +8,7 @@ const uri = "mongodb://localhost:27017"
 const client = new MongoClient(uri)
 let todosLosPrecios = {}
 
-test('test', async ({ page }) => {
+test.only('test', async ({ page }) => {
   await page.goto('https://domicilios.tiendasd1.com/store/12165__622/large-1280',
     { waitUntil: 'domcontentloaded' });
 
@@ -65,7 +65,7 @@ test('test', async ({ page }) => {
   }
 
   //insert data into mongoDB  
-  runDB().catch(console.dir)
+  //runDB().catch(console.dir)
 
 })
 
