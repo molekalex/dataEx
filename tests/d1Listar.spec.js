@@ -41,9 +41,6 @@ test.only('test', async ({ page }) => {
   console.log('El precio del gramo de ZANAHORIA es: ' + Zanahoria.precioGramo)
   console.log('El precio del kilo de ZANAHORIA es: ' + Zanahoria.precioKilo)
 
-
- 
-
   /*
   await page.getByRole('combobox', { name: 'Encuentra lo que necesitas en' }).fill('platano');
   await page.getByRole('combobox', { name: 'Encuentra lo que necesitas en' }).press('Enter');
@@ -90,5 +87,6 @@ async function runDB() {
   await client.connect()
   const db = client.db("dataEx")
   const users = db.collection("precios")
+  
   await users.insertOne({ todosLosPrecios })
 }
