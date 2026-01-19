@@ -2,11 +2,13 @@ name: Playwright Tests
 on: 
   schedule: 
    #runs every 15 minutes between Monday to Friday
-   - cron: "*/15 * * * 1-5"
+   #- cron: "*/15 * * * 1-5"
    #runs every minute between Monday to Friday
    #- cron: "*  * * 1-5"
-   #runs at 4:00 pm (colombian time) between monday to friday
-   #- cron: "0 22 * * 1-5"
+
+   #runs at 5:00 pm (colombian time) between monday to friday
+   # Colombia is UTC-5, so 5:00 pm colombian time is 10:00 pm UTC
+   - cron: "0 22 * * 1-5"
   
   push:
     branches: [ main ]
