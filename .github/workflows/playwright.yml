@@ -30,3 +30,6 @@ jobs:
         run: npm ci
       - name: Run your tests
         run: npx playwright test
+    env: 
+      DB_USER: ${{ secrets.DB_USER }}
+      DB_PASS: ${{ secrets.DB_PASS }}

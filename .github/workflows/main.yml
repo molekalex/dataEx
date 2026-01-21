@@ -23,3 +23,6 @@ jobs:
         name: playwright-report
         path: playwright-report/
         retention-days: 30
+    env: 
+     DB_USER: ${{ secrets.DB_USER }}
+     DB_PASS: ${{ secrets.DB_PASS }}

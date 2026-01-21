@@ -1,11 +1,28 @@
 import { test, expect } from '@playwright/test'
 import { promises as fs } from 'fs'
 import path from 'path'
-import { MongoClient } from 'mongodb'
+import { MongoClient, ServerApiVersion } from 'mongodb'
+import dotenv from 'dotenv'
+
 //service name is mongoDB
 
 const uri = "mongodb://localhost:27017"
+//load the environment variables from the .env file
+dotenv.config();
+const uri2 = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@aws-brazil.ko7kqo1.mongodb.net/?appName=AWS-brazil`
+console.log("The connection uri2 is: " + uri2)
 const client = new MongoClient(uri)
+
+  //create the mongoDB client for the remote server? 
+  // Create a MongoClient with a MongoClientOptions object to set the Stable API version
+const remoteClient = new MongoClient(uri2, {
+  serverApi: {
+    version: ServerApiVersion.v1,
+    strict: true,
+    deprecationErrors: true,
+  }
+});
+
 let todosLosPrecios = {}
 
 test.only('test', async ({ page }) => {
@@ -28,7 +45,7 @@ test.only('test', async ({ page }) => {
 
   await page.getByRole('combobox', { name: 'Encuentra lo que necesitas en' }).fill('plátano');
   await page.getByText('PLÁTANO X 1000', { waitUntil: 'domcontentloaded' }).click();
-  const textPlatano = await page.getByText('1000 g (g').nth(0).textContent();
+  const textPlatano = await page.getByText('1000 g (g').first().textContent();
   const Platano = extractPrice(textPlatano)
   console.log('El precio del gramo de PLATANO es: ' + Platano.precioGramo)
   console.log('El precio del kilo de PLATANO es: ' + Platano.precioKilo)
@@ -36,7 +53,7 @@ test.only('test', async ({ page }) => {
 
   await page.getByRole('combobox', { name: 'Encuentra lo que necesitas en' }).fill('zanahoria');
   await page.getByText('ZANAHORIA X 1000', { waitUntil: 'domcontentloaded' }).click();
-  const textZanahoria = await page.getByText('1000 g (g').nth(0).textContent();
+  const textZanahoria = await page.getByText('1000 g (g').first().textContent();
   const Zanahoria = extractPrice(textZanahoria)
   console.log('El precio del gramo de ZANAHORIA es: ' + Zanahoria.precioGramo)
   console.log('El precio del kilo de ZANAHORIA es: ' + Zanahoria.precioKilo)
@@ -63,8 +80,14 @@ test.only('test', async ({ page }) => {
     console.error("Error writing precios.json:", error)
   }
 
-  //insert data into mongoDB  
+
+
+
+  //insert data into local mongoDB  
   //runDB().catch(console.dir)
+
+  //run the remote mongoDB connection test
+  await runRemoteDB().catch(console.dir)
 
 })
 
@@ -83,10 +106,29 @@ function extractPrice(text) {
 }
 
 
-async function runDB() {
+async function runLocalDB() {
   await client.connect()
   const db = client.db("dataEx")
   const users = db.collection("precios")
   
   await users.insertOne({ todosLosPrecios })
+}
+
+async function runRemoteDB() {
+  try {
+    // Connect the client to the server	(optional starting in v4.7)
+    await remoteClient.connect();
+    // Send a ping to confirm a successful connection
+    await remoteClient.db(undefined).command({ ping: 1 });
+    console.log("Pinged your deployment. You successfully connected to MongoDB!");
+    const db = remoteClient.db("dataEx")
+    const users = db.collection("precios")
+    await users.insertOne({ todosLosPrecios })
+
+  } catch (error) {
+    console.error("Error inserting into MongoDB:", error)
+  }finally {
+    // Ensures that the client will close when you finish/error
+    await remoteClient.close();
+  }
 }

@@ -1,6 +1,8 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
 import { time } from 'console';
+require('dotenv').config();
+
 
 
 
@@ -24,7 +26,7 @@ timeout: 40*1000,
     browserName: 'chromium',
     headless: true,
     screenshot: 'on',
-    trace: 'on'
+    trace: 'on',
   },
 
 });
